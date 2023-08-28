@@ -47,6 +47,7 @@ Before you start training your model, make sure that your dataset's file format 
         ...
         </blockquote></details>
 </blockquote></details>
+</blockquote></details>
 
 The data folder should be in the same directory as your project.
 
